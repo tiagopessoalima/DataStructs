@@ -6,7 +6,7 @@
 
 1. Algorithm Analysis
 
-- Fundamentals
+  - Fundamentals
 - Asymptotic Complexity
 
 2. Basic Data Structures
