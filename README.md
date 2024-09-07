@@ -1,6 +1,6 @@
-Data Structures: Study of basic data structures, algorithm analysis, and techniques for searching and sorting. Includes hash tables, trees, and graphs, as well as heuristics for complex problems.
+**Data Structures:** Study of basic data structures, algorithm analysis, and techniques for searching and sorting. Includes hash tables, trees, and graphs, as well as heuristics for complex problems.
 
-General Objective: To study classic data structures and algorithms to provide effective tools for the design, implementation, and analysis of programs.
+**General Objective:** To study classic data structures and algorithms to provide effective tools for the design, implementation, and analysis of programs.
 
 **Course Content:**
 
@@ -40,11 +40,11 @@ General Objective: To study classic data structures and algorithms to provide ef
 - Branch & Bound
 - Dynamic Programming
 
-Required Reading:
+**Required Reading:**
 
 - Levitin, A. Introduction to the Design and Analysis of Algorithms (3rd ed). Addison-Wesley, 2011.
 - Shaffer, C. Data Structures and Algorithm Analysis. Dover Publications, 2013.
 
-Additional Reading:
+**Additional Reading:**
 
 - Cormen, T., Leiserson, C., Rivest, R., & Stein, C. Introduction to Algorithms. MIT Press, 2009.
